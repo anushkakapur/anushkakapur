@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!-- Actual text -->
-## Hi there 👋
+# Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 My name is Anushka Kapur, I am a Graduate Student at University of Southern California studying Business Analytics. You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anushkakapur/).
 
 ## 🔧 Technologies & Tools
