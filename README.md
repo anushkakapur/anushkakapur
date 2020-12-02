@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 <!-- Actual text -->
 
 
-You can find me on [![Twitter][1.2]][1], or on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anushkakapur/)
-&nbsp.
+You can find me on on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anushkakapur/).
 
 <!-- Icons -->
 
