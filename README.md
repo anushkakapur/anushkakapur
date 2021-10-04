@@ -20,7 +20,7 @@ My name is Anushka Kapur, I am a Graduate Student at University of Southern Cali
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![] (https://img.shields.io/badge/Tools-R-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-R-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 
 
